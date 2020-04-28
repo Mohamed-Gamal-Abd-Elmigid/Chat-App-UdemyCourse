@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		049825EB24354E6A000D878D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 049825EA24354E6A000D878D /* GoogleService-Info.plist */; };
-		04DDDBE72456BFCD0016BD24 /* UIViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDDBE62456BFCD0016BD24 /* UIViewExt.swift */; };
 		04DDDBE92456CEAA0016BD24 /* UIViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDDBE82456CEAA0016BD24 /* UIViewExt.swift */; };
 		6321A9C31B94EBA10053D2E7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6321A9C21B94EBA10053D2E7 /* Images.xcassets */; };
 		6321A9E21B94EBE70053D2E7 /* CustomMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6321A9DB1B94EBE70053D2E7 /* CustomMessageCell.swift */; };
@@ -185,7 +184,7 @@
 			attributes = {
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 1020;
+				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = "London App Brewery";
 				TargetAttributes = {
 					6321A9B51B94EBA10053D2E7 = {
@@ -289,7 +288,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				04DDDBE92456CEAA0016BD24 /* UIViewExt.swift in Sources */,
-				04DDDBE72456BFCD0016BD24 /* UIViewExt.swift in Sources */,
 				63E28B331B9A337600FBF6E0 /* WelcomeViewController.swift in Sources */,
 				63E28B251B9A335300FBF6E0 /* Message.swift in Sources */,
 				6321A9E21B94EBE70053D2E7 /* CustomMessageCell.swift in Sources */,
